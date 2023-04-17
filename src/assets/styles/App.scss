@@ -1,0 +1,71 @@
+@import url(_variables.scss);
+@import url(./font.scss);
+@import url(./_variables.scss);
+
+@import '/node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../../node_modules/font-awesome/css/font-awesome.min.css';
+
+
+$White : #f8f8f4;
+$Background: #282a36;
+$CurrentLine: #44475a;
+$Foreground:'#f8f8f2';
+$Comment: #6272a4;
+$Cyan: #8be9fd;
+$Green: #50fa7b;
+$Pink: #ff79c6;
+$Purple: #bd93f9;
+$Red: #ff5555;
+$Yellow: #f1fa8c;
+
+
+
+body {
+    background:#252a36;
+    // background-size: 300% 300%;
+    // -webkit-animation: Background 25s ease infinite;
+    // -moz-animation: Background 25s ease infinite;
+    // animation: Background 25s ease infinite;
+   // font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    color: #424767;
+
+    input[type="email"]::-webkit-input-placeholder , 
+    input[type="text"]::-webkit-input-placeholder , 
+    input[type="number"]::-webkit-input-placeholder{
+      color:$white;
+
+    }
+
+    input[type="text"] ,
+    input[type="email"] ,
+    input[type="number"] {
+      color: $White;
+      background: $CurrentLine;
+      border-color: $Purple !important;
+    }
+
+    .form-control{
+      background-color: $CurrentLine !important;
+      color: $Purple !important;
+      border-color: $Purple !important;
+    }
+
+
+    
+
+    .navbar{
+      .form-control{
+         //background-color: rgba($color: #fff, $alpha: 0.5);
+          height: 50px;
+      }
+
+      .btn-outline-secondary{
+        width: 50px;
+
+        }
+      }
+    }
+  
+
