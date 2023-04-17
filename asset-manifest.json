@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/contact-manger/static/css/main.040d9b6e.css",
+    "main.js": "/contact-manger/static/js/main.3e04f1c2.js",
+    "static/media/Spinner.gif": "/contact-manger/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/contact-manger/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/contact-manger/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/man-taking-note.png": "/contact-manger/static/media/man-taking-note.578e1679689f39584d15.png",
+    "static/media/fontawesome-webfont.eot": "/contact-manger/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/contact-manger/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/contact-manger/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/contact-manger/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/contact-manger/index.html",
+    "main.040d9b6e.css.map": "/contact-manger/static/css/main.040d9b6e.css.map",
+    "main.3e04f1c2.js.map": "/contact-manger/static/js/main.3e04f1c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040d9b6e.css",
+    "static/js/main.3e04f1c2.js"
+  ]
+}
